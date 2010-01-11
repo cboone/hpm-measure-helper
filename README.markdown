@@ -1,4 +1,4 @@
-# Hpm line length helper. #
+# Hpm measure helper. #
 
 By [Christopher Boone][1].
 
